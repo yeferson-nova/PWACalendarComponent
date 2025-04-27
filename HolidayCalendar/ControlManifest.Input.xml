@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="Contoso.Calendar" constructor="HolidayCalendar" version="0.0.1" display-name-key="HolidayCalendar" description-key="HolidayCalendar description" control-type="standard">
+
+    <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="HolidayList" display-name-key="HolidayList_Display_Key" description-key="HolidayList_Desc_Key" of-type="SingleLine.Text" usage="bound" required="false" />
+
+    <resources>
+      <code path="index.ts" order="1" />
+    </resources>
+
+    <external-service-usage enabled="false" />
+    
+  </control>
+</manifest>

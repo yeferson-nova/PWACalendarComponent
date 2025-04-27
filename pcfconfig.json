@@ -1,0 +1,8 @@
+{
+    "namespace": "ynova.Calendar",
+    "controlName": "HolidayCalendar",
+    "controlType": "standard",
+    "template": "field",
+    "sourceControlPath": "src/index.ts"
+  }
+  
