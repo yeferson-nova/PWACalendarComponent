@@ -109,7 +109,8 @@ dentro de `solution/bin/debug/`.
 
 ## 🖼️ Vista previa
 
-*(Agrega aquí una imagen o GIF de tu componente desplegándose.)*
+![image](https://github.com/user-attachments/assets/76d4c059-7cb5-4868-9230-98c08f9d747c)
+
 
 ---
 
