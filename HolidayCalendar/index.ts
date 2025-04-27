@@ -33,7 +33,7 @@ export class HolidayCalendar implements ComponentFramework.StandardControl<IInpu
     }
 
     public updateView(context: ComponentFramework.Context<IInputs>): void {
-        // Actualizar si cambia algún parámetro
+     
     }
 
     public getOutputs(): IOutputs {
@@ -41,7 +41,7 @@ export class HolidayCalendar implements ComponentFramework.StandardControl<IInpu
     }
 
     public destroy(): void {
-        // Limpieza
+
     }
 
     private renderCalendar() {

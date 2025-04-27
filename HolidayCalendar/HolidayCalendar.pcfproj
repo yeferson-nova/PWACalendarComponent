@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.PowerApps.Sdk.Control">
+
+  <PropertyGroup>
+    <ControlNamespace>Contoso.Calendar</ControlNamespace>
+    <ControlName>HolidayCalendar</ControlName>
+    <ControlDisplayName>HolidayCalendar</ControlDisplayName>
+    <ControlDescription>Custom holiday calendar input component</ControlDescription>
+    <ControlType>standard</ControlType>
+    <Template>field</Template>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
